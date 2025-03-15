@@ -9,7 +9,7 @@ Hi, I'm **Jung**, a geotechnical engineer in Houston, TX. I have been working in
 ## 🌱 GitHub is for
 - Managing integrated engineering skills to teach in the future.
 - Developing Python scripts for automating tasks.
-- Catching up with the fast-moving world of Data Science, though Civil engineering may seem old-fashioned.
+- Catching up with the fast-moving world of Data Science as a pioneer in Civil engineering ;).
 
 <!--
 **jrson11/jrson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
