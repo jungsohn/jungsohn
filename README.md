@@ -3,7 +3,7 @@ Hi, I'm **Jung**, a geotechnical engineer in Houston, TX. I have been working in
 
 
 ## 📫 Contact Me
-| [LinkedIn](https://www.linkedin.com/in/jungrak-son/) | [Portfolio](https://sites.google.com/view/jungrak-son-phd-pe) | [Email](mailto:jon.jungrak.son@gmail.com) | [Readthedocs](https://geosohn.readthedocs.io/en/latest/) |
+| [LinkedIn](https://www.linkedin.com/in/jungrak-son/) | [Portfolio](https://sites.google.com/view/jungrak-son-phd-pe) | [Readthedocs](https://geosohn.readthedocs.io/en/latest/) |
 
 
 ## 🌱 GitHub is for
